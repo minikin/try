@@ -1,4 +1,4 @@
-# Perspective technologies (2018)
+# Perspective technologies
 
 1. [Rust for backend](#rust-for-backend)
 2. [Cross-platform mobile development](#cross-platform-mobile-development)
