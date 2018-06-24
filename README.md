@@ -1,12 +1,12 @@
-# Perspective technologies to try
+# Perspective technologies
 
 ## 2018
-  - Rust for backend
-  - Cross-platform mobile development 
-  - Web assembly
-  - Progressive Web App
-  - Web app with Elm + Polymer
-  - GraphQL
+1. [Rust for backend](#rust-for-backend)
+2. [Cross-platform mobile development](cross-platform-mobile-development)
+3. Web assembly
+4. Progressive Web App
+5. Web app with Elm + Polymer
+6. GraphQL
   
 ------------------
 ### Rust for backend
