@@ -7,7 +7,6 @@
 5. Web app with Elm + Polymer
 6. GraphQL
   
-------------------
 ## Rust for backend
 
 High performant, reliable ant type safe backend service with Rust.
