@@ -2,7 +2,7 @@
 
 ## 2018
 1. [Rust for backend](#rust-for-backend)
-2. [Cross-platform mobile development](cross-platform-mobile-development)
+2. [Cross-platform mobile development](#cross-platform-mobile-development)
 3. Web assembly
 4. Progressive Web App
 5. Web app with Elm + Polymer
@@ -33,3 +33,11 @@ I'm completely agree with:
 **Tech stack:** Swift/Kotlin, React Native(TypeScript) and Flutter.
 
 **Benchmark:** Performance of huge collections, lines of code, time.
+
+
+### Web assembly
+### Progressive Web App
+### Web app with Elm + Polymer
+### GraphQL
+
+
